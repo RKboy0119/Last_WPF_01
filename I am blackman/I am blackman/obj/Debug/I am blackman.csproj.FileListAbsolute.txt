@@ -1,0 +1,18 @@
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\bin\Debug\I am blackman.exe.config
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\bin\Debug\I am blackman.exe
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\bin\Debug\I am blackman.pdb
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\I am blackman.csprojResolveAssemblyReference.cache
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\MainWindow.g.cs
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\App.g.cs
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\I am blackman_MarkupCompile.cache
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\I am blackman_MarkupCompile.lref
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\MainWindow.baml
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\I am blackman.g.resources
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\I_am_blackman.Properties.Resources.resources
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\I am blackman.csproj.GenerateResource.Cache
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\I am blackman.csproj.CoreCompileInputs.cache
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\I am blackman.exe
+C:\Users\陳柏霖\Desktop\I am blackman\I am blackman\obj\Debug\I am blackman.pdb
+C:\Users\C616_3\Desktop\I am blackman\I am blackman\bin\Debug\I am blackman.exe.config
+C:\Users\C616_3\Desktop\I am blackman\I am blackman\obj\Debug\I am blackman.exe
+C:\Users\C616_3\Desktop\I am blackman\I am blackman\obj\Debug\I am blackman.pdb
