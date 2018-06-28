@@ -5,30 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:I_am_blackman"
         mc:Ignorable="d"
-        Title="MainWindow" Height="600" Width="500">
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="400"></RowDefinition>
-            <RowDefinition></RowDefinition>
-        </Grid.RowDefinitions>
+        Title="MainWindow" Height="600" Width="485">
+    <Grid Background="White" >
+        <Image Source="插圖28.jpg" ></Image>
 
-        <Grid Grid.Row="0">
-            <TextBlock x:Name="end" FontSize="60" VerticalAlignment="Center" TextAlignment="Center">占卜結果</TextBlock>
-        </Grid>
-        
-        <Grid Grid.Row="1" Background="Blue">
-            <StackPanel Orientation="Horizontal">
-                <Grid Margin="20" Width="205" Height="80">
-                    <Border x:Name="Divine" CornerRadius="5" Background="LightCyan" BorderBrush="LightGray" BorderThickness="3" MouseDown="Divine_MouseDown"></Border>
-                    <TextBlock Width="80" FontSize="35" Foreground="DarkBlue" VerticalAlignment="Center" TextAlignment="Center">占卜</TextBlock>
-                </Grid>
-                <Grid  Margin="20" Width="205" Height="80" HorizontalAlignment="Right">
-                    <Border x:Name="ReDivine" CornerRadius="5" Background="LightCyan" BorderBrush="LightGray" BorderThickness="3" MouseDown="ReDivine_MouseDown"></Border>
-                    <TextBlock Width="200" FontSize="35" Foreground="DarkBlue" VerticalAlignment="Center" TextAlignment="Center">再一次</TextBlock>
-                </Grid>
-            </StackPanel>
-        </Grid>
+        <Button Background="Pink" Width="130" Margin="280,418,67,60" FontSize="40" Click="Button_Click">占卜</Button>
+        <TextBox Background="Pink" x:Name="end" Margin="61,418,239,60" FontSize="50" TextAlignment="Center">
+            </TextBox>
     </Grid>
-    
-   
 </Window>

@@ -24,14 +24,26 @@ namespace I_am_blackman
         {
             InitializeComponent();
         }
-        private void Divine_MouseDown(object sender, MouseButtonEventArgs e)
+        Random rnd = new Random();
+        // 宣告陣列
+        string[] names = { "大吉", "吉", "兇", "大兇", "不如意", "幹你娘", "財運", "如意", "開心", "順利", "破產","努力點" };
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
 
-        }
+            // 隨機洗牌開始
+            for (int i = 0; i < names.Length; i++)
+            {
+                // 先將目前位置中的元素複製一份（為了交換用）
+                string temp = names[i];
 
-        private void ReDivine_MouseDown(object sender, MouseButtonEventArgs e)
-        {
+                // 將第隨機個元素放到目前位置（交換)
+                int r = rnd.Next(0, names.Length);
+                names[i] = names[r];
 
+                // 將備份的元素放到剛才那隨機的位置上（完成交換）
+                names[r] = temp;
+                end.Text = names[i].ToString();
+            }
         }
     }
 }
